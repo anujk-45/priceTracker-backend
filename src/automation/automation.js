@@ -41,4 +41,4 @@ const checkAndUpdate = async() => {
   })
 }
 
-setInterval(checkAndUpdate, 3600000);
+setInterval(checkAndUpdate, 180000);
